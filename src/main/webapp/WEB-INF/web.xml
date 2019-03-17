@@ -42,7 +42,7 @@
   </error-page>
    <error-page>
     <error-code>500</error-code>
-    <location>/error_404</location>
+    <location>/login</location>
   </error-page>
   <filter>
     <display-name>LoginFilter</display-name>
